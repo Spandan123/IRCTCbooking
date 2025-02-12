@@ -1,9 +1,9 @@
 # IRCTCbooking
 
 Facilities to book trains based on availability, add trains (for admin only).
-Used MySQL and express.js to build the API
+Used MySQL and express.js to build the API.
 
-########
+####################################################################################################
 
 ## Setup
 1. Create tables using MySQL database provided in the CREATE_TABLES file
